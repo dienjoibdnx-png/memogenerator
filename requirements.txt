@@ -1,0 +1,5 @@
+aiogram
+aiomysql
+Pillow
+cryptography
+aiohttp
